@@ -1,0 +1,28 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Producao.NumberIn
+Estoque.NumberOut
+Producao.VATime
+Deslocamento_3.NumberOut
+Deslocamento_2.NumberOut
+Deslocamento_1.NumberOut
+Deslocamento_3.NumberIn
+Deslocamento_2.NumberIn
+Deslocamento_1.NumberIn
+Inspecao.WaitTime
+Reparo.VATime
+Deslocamento_3.TranTime
+Deslocamento_2.TranTime
+Deslocamento_1.TranTime
+Reparo.WaitTime
+Peca_OK ?.NumberOut False
+Inspecao.NumberIn
+Inspecao.NumberOut
+Producao.WaitTime
+Reparo.NumberOut
+Reparo.NumberIn
+Pedidos.NumberOut
+Peca_OK ?.NumberOut True
+Inspecao.VATime
+Producao.NumberOut

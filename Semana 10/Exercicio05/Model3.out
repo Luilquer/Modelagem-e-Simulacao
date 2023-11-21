@@ -1,0 +1,65 @@
+
+                                      ARENA Simulation Results
+                                   Windows User - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Exercicio 14_2                                              Data da execução : 8/30/2021
+Analista: Luilquer                                                    Data de revisão do modelo: 8/30/2021
+
+Replicação terminada no tempo de      : 480.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Escaninho.VATimePerEntity                   .13248     .00619      8.9029E-5 .88195        990    
+Escaninho.WaitTimePerEntity                 4.3846     .77127     .00000     12.347        990    
+Escaninho.TotalTimePerEntity                4.5171     .76930     .00574     12.587        990    
+correspondecia.VATime                       .13248     .00619      8.9029E-5 .88195        990    
+correspondecia.NVATime                      .00000     .00000     .00000     .00000        990    
+correspondecia.WaitTime                     4.3846     .77127     .00000     12.347        990    
+correspondecia.TranTime                     .00000     .00000     .00000     .00000        990    
+correspondecia.OtherTime                    .00000     .00000     .00000     .00000        990    
+correspondecia.TotalTime                    4.5171     .76930     .00574     12.587        990    
+Escaninho.Queue.WaitingTime                 4.3846     .77127     .00000     12.347        990    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+correspondecia.WIP                          9.3165     5.3295     .00000     101.00     .00000    
+funcionario.NumberBusy                      .27324     (Insuf)    .00000     1.0000     .00000    
+funcionario.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+funcionario.Utilization                     .27324     (Insuf)    .00000     1.0000     .00000    
+Escaninho.Queue.NumberInQueue               9.0433     5.2203     .00000     100.00     .00000    
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+contadorCorretos                                973  Infinite
+contadorIncorretos                               17  Infinite
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Escaninho Number In                         990.00    
+Escaninho Accum Wait Time                   4340.8    
+Escaninho Number Out                        990.00    
+Escaninho Accum VA Time                     131.15    
+correspondecia.NumberIn                     990.00    
+correspondecia.NumberOut                    990.00    
+funcionario.NumberSeized                    990.00    
+funcionario.ScheduledUtilization            .27324    
+System.NumberOut                            990.00    
+
+
+Tempo executando a simulação: 1.07 minutos.
+Simulação completada.

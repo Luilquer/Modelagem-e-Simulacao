@@ -1,0 +1,11 @@
+[RESOURCES]
+operador
+[VARIABLES]
+Saida.NumberOut
+inspecao.NumberOut False
+inspecao.NumberOut True
+Chegada.NumberOut
+Lavacao.NumberIn
+Lavacao.VATime
+Lavacao.WaitTime
+Lavacao.NumberOut

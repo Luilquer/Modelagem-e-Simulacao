@@ -1,0 +1,90 @@
+
+                                      ARENA Simulation Results
+                                   Windows User - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução : 8/26/2021
+Analista: Windows User                                                Data de revisão do modelo: 8/26/2021
+
+Replicação terminada no tempo de      : 600.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Costura.VATimePerEntity                     17.694     (Insuf)    6.4973     25.276         18    
+Deslocamento_3.TranTimePerEntity            2.0000     (Insuf)    2.0000     2.0000          4    
+Deslocamento_2.TranTimePerEntity            2.0000     (Insuf)    2.0000     2.0000         18    
+Corte.VATimePerEntity                       10.063     (Insuf)    8.3381     11.400         25    
+Costura.WaitTimePerEntity                   132.82     (Insuf)    28.037     222.98         18    
+Deslocamento_3.TotalTimePerEntity           2.0000     (Insuf)    2.0000     2.0000          4    
+Deslocamento_2.TotalTimePerEntity           2.0000     (Insuf)    2.0000     2.0000         18    
+Inspecao.TotalTimePerEntity                 152.50     (Insuf)    69.852     233.19         10    
+Inspecao.VATimePerEntity                    2.0000     (Insuf)    2.0000     2.0000         10    
+Deslocamento.TranTimePerEntity              2.0000     (Insuf)    2.0000     2.0000         25    
+Inspecao.WaitTimePerEntity                  150.50     (Insuf)    67.852     231.19         10    
+Corte.TotalTimePerEntity                    134.31     (Insuf)    9.6954     241.72         25    
+Costura.TotalTimePerEntity                  150.52     (Insuf)    50.895     242.46         18    
+Deslocamento.TotalTimePerEntity             2.0000     (Insuf)    2.0000     2.0000         25    
+Corte.WaitTimePerEntity                     124.25     (Insuf)    .00000     231.95         25    
+Entity 1.VATime                             35.238     (Insuf)    19.524     56.883          6    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000          6    
+Entity 1.WaitTime                           299.92     (Insuf)    141.14     406.60          6    
+Entity 1.TranTime                           4.6666     (Insuf)    4.0000     8.0000          6    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000          6    
+Entity 1.TotalTime                          339.82     (Insuf)    164.67     460.71          6    
+Inspecao.Queue.WaitingTime                  150.50     (Insuf)    67.852     231.19         10    
+Corte.Queue.WaitingTime                     124.25     (Insuf)    .00000     231.95         25    
+Costura.Queue.WaitingTime                   137.65     (Insuf)    28.037     224.50         19    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                19.058     (Insuf)    .00000     31.000     31.000    
+Resource 1.NumberBusy                       1.0000     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      1.0000     (Insuf)    .00000     1.0000     1.0000    
+Inspecao.Queue.NumberInQueue                3.9911     (Insuf)    .00000     8.0000     8.0000    
+Corte.Queue.NumberInQueue                   7.9184     (Insuf)    .00000     13.000     12.000    
+Costura.Queue.NumberInQueue                 5.9923     (Insuf)    .00000     12.000     10.000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Deslocamento Number In                      25.000    
+Corte Accum Wait Time                       3106.3    
+Corte Accum VA Time                         251.59    
+Deslocamento_3 Number Out                   4.0000    
+Deslocamento_2 Number Out                   18.000    
+Costura Number In                           29.000    
+Deslocamento_3 Number In                    4.0000    
+Deslocamento_2 Number In                    18.000    
+Corte Number Out                            25.000    
+Inspecao Accum Wait Time                    1505.0    
+Costura Accum Wait Time                     2390.9    
+Deslocamento Accum Transfer Time            50.000    
+Deslocamento_3 Accum Transfer Time          8.0000    
+Deslocamento_2 Accum Transfer Time          36.000    
+Deslocamento Number Out                     25.000    
+Inspecao Number In                          18.000    
+Costura Accum VA Time                       318.49    
+Inspecao Number Out                         10.000    
+Corte Number In                             37.000    
+Costura Number Out                          18.000    
+Inspecao Accum VA Time                      20.000    
+Entity 1.NumberIn                           37.000    
+Entity 1.NumberOut                          6.0000    
+Resource 1.NumberSeized                     54.000    
+Resource 1.ScheduledUtilization             1.0000    
+System.NumberOut                            6.0000    
+
+
+Tempo executando a simulação: 0.05 minutos.
+Simulação completada.

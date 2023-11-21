@@ -1,0 +1,16 @@
+[RESOURCES]
+servidor2
+servidor1
+[VARIABLES]
+Decide 2.NumberOut False
+Saida.NumberOut
+Server_2.VATime
+Server_2.NumberOut
+Server_1.NumberOut
+Server_2.NumberIn
+Server_1.NumberIn
+Server_1.TranTime
+Chegada.NumberOut
+Server_2.WaitTime
+Server_1.WaitTime
+Decide 2.NumberOut True

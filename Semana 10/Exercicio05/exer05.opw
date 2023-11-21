@@ -1,0 +1,12 @@
+[RESOURCES]
+servidor1
+[VARIABLES]
+Saida.NumberOut
+Server_2.VATime
+Server_1.NumberOut
+Server_2.NumberOut
+Server_1.NumberIn
+Server_2.NumberIn
+Server_1.TranTime
+Chegada.NumberOut
+Server_1.WaitTime

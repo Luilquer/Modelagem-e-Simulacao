@@ -1,0 +1,28 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Deslocamento.NumberIn
+Corte.WaitTime
+Corte.VATime
+Deslocamento_3.NumberOut
+Deslocamento_2.NumberOut
+Costura.NumberIn
+Deslocamento_3.NumberIn
+Deslocamento_2.NumberIn
+Corte.NumberOut
+Inspecao.WaitTime
+Roupa_OK?.NumberOut False
+Costura.WaitTime
+Deslocamento.TranTime
+Deslocamento_2.TranTime
+Deslocamento_3.TranTime
+Deslocamento.NumberOut
+Inspecao.NumberIn
+Costura.VATime
+Inspecao.NumberOut
+Roupa_OK?.NumberOut True
+Corte.NumberIn
+Pedidos.NumberOut
+Costura.NumberOut
+Remessas.NumberOut
+Inspecao.VATime

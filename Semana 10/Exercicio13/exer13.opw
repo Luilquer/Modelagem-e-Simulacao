@@ -1,0 +1,11 @@
+[RESOURCES]
+R_funcionario
+[VARIABLES]
+Saida.NumberOut
+Prob. Acertos.NumberOut False
+Distribuicao.NumberOut
+Chegada.NumberOut
+Distribuicao.WaitTime
+Prob. Acertos.NumberOut True
+Distribuicao.VATime
+Distribuicao.NumberIn

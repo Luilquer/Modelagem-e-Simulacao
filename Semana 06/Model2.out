@@ -1,0 +1,90 @@
+
+                                      ARENA Simulation Results
+                                   Windows User - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução : 8/26/2021
+Analista: Windows User                                                Data de revisão do modelo: 8/26/2021
+
+Replicação terminada no tempo de      : 1.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Deslocamento_3.TranTimePerEntity                --         --         --         --          0
+Deslocamento_2.TranTimePerEntity                --         --         --         --          0
+Deslocamento_1.TranTimePerEntity                --         --         --         --          0
+Reparo.VATimePerEntity                          --         --         --         --          0
+Reparo.TotalTimePerEntity                       --         --         --         --          0
+Reparo.WaitTimePerEntity                        --         --         --         --          0
+Deslocamento_3.TotalTimePerEntity               --         --         --         --          0
+Deslocamento_2.TotalTimePerEntity               --         --         --         --          0
+Deslocamento_1.TotalTimePerEntity               --         --         --         --          0
+Inspecao.TotalTimePerEntity                     --         --         --         --          0
+Inspecao.VATimePerEntity                        --         --         --         --          0
+Producao.WaitTimePerEntity                      --         --         --         --          0
+Inspecao.WaitTimePerEntity                      --         --         --         --          0
+Producao.TotalTimePerEntity                     --         --         --         --          0
+Producao.VATimePerEntity                        --         --         --         --          0
+Entity 1.VATime                                 --         --         --         --          0
+Entity 1.NVATime                                --         --         --         --          0
+Entity 1.WaitTime                               --         --         --         --          0
+Entity 1.TranTime                               --         --         --         --          0
+Entity 1.OtherTime                              --         --         --         --          0
+Entity 1.TotalTime                              --         --         --         --          0
+Producao.Queue.WaitingTime                  .00000     (Insuf)    .00000     .00000          1    
+Reparo.Queue.WaitingTime                        --         --         --         --          0
+Inspecao.Queue.WaitingTime                      --         --         --         --          0
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                1.0000     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberBusy                       1.0000     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      1.0000     (Insuf)    .00000     1.0000     1.0000    
+Producao.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Reparo.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
+Inspecao.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Producao Number In                          1.0000    
+Producao Accum VA Time                      .00000    
+Deslocamento_3 Number Out                   .00000    
+Deslocamento_2 Number Out                   .00000    
+Deslocamento_1 Number Out                   .00000    
+Deslocamento_3 Number In                    .00000    
+Deslocamento_2 Number In                    .00000    
+Deslocamento_1 Number In                    .00000    
+Inspecao Accum Wait Time                    .00000    
+Reparo Accum VA Time                        .00000    
+Deslocamento_3 Accum Transfer Time          .00000    
+Deslocamento_2 Accum Transfer Time          .00000    
+Deslocamento_1 Accum Transfer Time          .00000    
+Reparo Accum Wait Time                      .00000    
+Inspecao Number In                          .00000    
+Inspecao Number Out                         .00000    
+Producao Accum Wait Time                    .00000    
+Reparo Number Out                           .00000    
+Reparo Number In                            .00000    
+Inspecao Accum VA Time                      .00000    
+Producao Number Out                         .00000    
+Entity 1.NumberIn                           1.0000    
+Entity 1.NumberOut                          .00000    
+Resource 1.NumberSeized                     1.0000    
+Resource 1.ScheduledUtilization             1.0000    
+System.NumberOut                            .00000    
+
+
+Tempo executando a simulação: 0.02 minutos.
+Simulação completada.

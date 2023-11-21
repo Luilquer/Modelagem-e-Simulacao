@@ -1,0 +1,11 @@
+[RESOURCES]
+funcionario
+[VARIABLES]
+Decide 1.NumberOut False
+Saida.NumberOut
+Escaninho.NumberIn
+Escaninho.WaitTime
+Chegada.NumberOut
+Escaninho.NumberOut
+Escaninho.VATime
+Decide 1.NumberOut True

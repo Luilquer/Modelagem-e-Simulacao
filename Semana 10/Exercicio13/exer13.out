@@ -1,0 +1,152 @@
+
+                                      ARENA Simulation Results
+                                   Windows User - License: STUDENT
+
+                                  Sumário para Replicação 1 de 5
+
+Projeto: Exercicio 13                                                Data da execução : 9/18/2021
+Analista: Luilquer                                                    Data de revisão do modelo: 9/18/2021
+
+Replicação terminada no tempo de      : 480.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Distribuicao.WaitTimePerEntity              3.5051     .69400     .00000     11.346       1201    
+Distribuicao.VATimePerEntity                .09792     .00397      6.6772E-5 .66147       1201    
+Distribuicao.TotalTimePerEntity             3.6030     .69423     .00921     11.499       1201    
+correspondecia.VATime                       .09792     .00397      6.6772E-5 .66147       1201    
+correspondecia.NVATime                      .00000     .00000     .00000     .00000       1201    
+correspondecia.WaitTime                     3.5051     .69400     .00000     11.346       1201    
+correspondecia.TranTime                     .00000     .00000     .00000     .00000       1201    
+correspondecia.OtherTime                    .00000     .00000     .00000     .00000       1201    
+correspondecia.TotalTime                    3.6030     .69423     .00921     11.499       1201    
+Distribuicao.Queue.WaitingTime              3.5055     .69400     .00000     11.346       1202    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+correspondecia.WIP                          9.3064     (Corr)     .00000     117.00     33.000    
+R_funcionario.NumberBusy                    .24560     (Insuf)    .00000     1.0000     1.0000    
+R_funcionario.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+R_funcionario.Utilization                   .24560     (Insuf)    .00000     1.0000     1.0000    
+Distribuicao.Queue.NumberInQueue            9.0608     (Corr)     .00000     116.00     32.000    
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+contadorCorretos                               1171  Infinite
+contadorIncorretos                               30  Infinite
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Distribuicao Number Out                     1201.0    
+Distribuicao Accum Wait Time                4209.7    
+Distribuicao Accum VA Time                  117.60    
+Distribuicao Number In                      1234.0    
+correspondecia.NumberIn                     1234.0    
+correspondecia.NumberOut                    1201.0    
+R_funcionario.NumberSeized                  1202.0    
+R_funcionario.ScheduledUtilization          .24560    
+System.NumberOut                            1201.0    
+
+Iniciando replicação 2 de 5
+
+----------------------------------------------------------------------
+19114:CCREAT
+Um erro de simulação foi detectado no tempo  49.949724 no seguinte bloco:
+
+ *    1 5$              CREATE,UNIF(1,100),MinutesToBaseTime(0.0),
+                            correspondecia:
+                            MinutesToBaseTime(EXPO(12)),100:
+                            NEXT(6$);
+
+Maximo de 150 entidades excedido.
+Possíveis causas:
+- Um problema na lógica do seu modelo está criando muitas entidades e não as está retirando do modelo
+. O controlador de execução pode ser útil para descobrir o problema.
+- Você está no modo de demonstração e excedeu o limite de entidades. A versão comercial
+  é necessária para rodar modelos grandes.
+- Você configurou um limite de entidades no elemento DISCRETE que é muito baixo.
+  Remova o limite ou configure para um valor maior.
+- Você excedeu a matriz padrão de  
+espaço para os modelos. Use a página Tamanhos das Matrizes
+ na caixa de diálogo Rodar/Configurar para incrementar o espaço alocado para RSET e
+ cheque novamente seu modelo.
+----------------------------------------------------------------------
+
+
+Controlador de execução do SIMAN.
+
+49.949724 Minutos>
+                                      ARENA Simulation Results
+                                   Windows User - License: STUDENT
+
+                                  Sumário para Replicação 2 de 5
+
+Projeto: Exercicio 13                                                Data da execução : 9/18/2021
+Analista: Luilquer                                                    Data de revisão do modelo: 9/18/2021
+
+Replicação terminada no tempo de      : 49.949724 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Distribuicao.WaitTimePerEntity              2.9085     (Insuf)    .00000     7.0128        173    
+Distribuicao.VATimePerEntity                .09514     (Insuf)     5.1639E-4 .46118        173    
+Distribuicao.TotalTimePerEntity             3.0036     (Insuf)    .00814     7.0192        173    
+correspondecia.VATime                       .09514     (Insuf)     5.1639E-4 .46118        173    
+correspondecia.NVATime                      .00000     (Insuf)    .00000     .00000        173    
+correspondecia.WaitTime                     2.9085     (Insuf)    .00000     7.0128        173    
+correspondecia.TranTime                     .00000     (Insuf)    .00000     .00000        173    
+correspondecia.OtherTime                    .00000     (Insuf)    .00000     .00000        173    
+correspondecia.TotalTime                    3.0036     (Insuf)    .00814     7.0192        173    
+Distribuicao.Queue.WaitingTime              2.9257     (Insuf)    .00000     7.0128        174    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+correspondecia.WIP                          16.140     (Insuf)    .00000     99.000     72.000    
+R_funcionario.NumberBusy                    .33476     (Insuf)    .00000     1.0000     1.0000    
+R_funcionario.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+R_funcionario.Utilization                   .33476     (Insuf)    .00000     1.0000     1.0000    
+Distribuicao.Queue.NumberInQueue            15.805     (Insuf)    .00000     98.000     71.000    
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+contadorCorretos                                167  Infinite
+contadorIncorretos                                6  Infinite
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Distribuicao Number Out                     173.00    
+Distribuicao Accum Wait Time                503.17    
+Distribuicao Accum VA Time                  16.459    
+Distribuicao Number In                      245.00    
+correspondecia.NumberIn                     245.00    
+correspondecia.NumberOut                    173.00    
+R_funcionario.NumberSeized                  174.00    
+R_funcionario.ScheduledUtilization          .33476    
+System.NumberOut                            173.00    
+

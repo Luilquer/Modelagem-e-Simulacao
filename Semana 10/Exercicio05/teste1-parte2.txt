@@ -1,0 +1,73 @@
+
+                                      ARENA Simulation Results
+                                   Windows User - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Exercicio05                                                 Data da execução : 9/ 4/2021
+Analista: Luilquer                                                    Data de revisão do modelo: 9/ 4/2021
+
+Replicação terminada no tempo de      : 5000.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Server_1.TranTimePerEntity                  10.150     (Insuf)    7.3018     13.002        150    
+Tempo Servidor1                             39.270     (Insuf)    8.2066     94.490        150    
+Tempo Servidor2                             49.533     (Insuf)    18.086     106.55        150    
+Server_2.TotalTimePerEntity                 10.262     (Insuf)    8.2460     15.254        150    
+Server_1.TotalTimePerEntity                 39.270     (Insuf)    8.2066     94.490        150    
+Server_2.VATimePerEntity                    9.6257     (Insuf)    8.0921     10.911        150    
+Server_2.WaitTimePerEntity                  .63684     (Insuf)    .00000     5.1377        150    
+Server_1.WaitTimePerEntity                  29.120     (Insuf)    .00000     86.372        150    
+chegada.VATime                              9.6257     (Insuf)    8.0921     10.911        150    
+chegada.NVATime                             .00000     (Insuf)    .00000     .00000        150    
+chegada.WaitTime                            29.757     (Insuf)    .00000     88.827        150    
+chegada.TranTime                            10.150     (Insuf)    7.3018     13.002        150    
+chegada.OtherTime                           .00000     (Insuf)    .00000     .00000        150    
+chegada.TotalTime                           49.533     (Insuf)    18.086     106.55        150    
+Server_2.Queue.WaitingTime                  .63684     (Insuf)    .00000     5.1377        150    
+Server_1.Queue.WaitingTime                  29.120     (Insuf)    .00000     86.372        150    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+chegada.WIP                                 1.4860     (Insuf)    .00000     11.000     .00000    
+servidor2.NumberBusy                        .28877     (Insuf)    .00000     1.0000     .00000    
+servidor2.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+servidor2.Utilization                       .28877     (Insuf)    .00000     1.0000     .00000    
+servidor1.NumberBusy                        .30451     (Insuf)    .00000     1.0000     .00000    
+servidor1.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+servidor1.Utilization                       .30451     (Insuf)    .00000     1.0000     .00000    
+Server_2.Queue.NumberInQueue                .01911     (Insuf)    .00000     1.0000     .00000    
+Server_1.Queue.NumberInQueue                .87362     (Insuf)    .00000     9.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Server_2 Accum VA Time                      1443.8    
+Server_2 Number Out                         150.00    
+Server_1 Number Out                         150.00    
+Server_2 Number In                          150.00    
+Server_1 Number In                          150.00    
+Server_1 Accum Transfer Time                1522.5    
+Server_2 Accum Wait Time                    95.526    
+Server_1 Accum Wait Time                    4368.0    
+chegada.NumberIn                            150.00    
+chegada.NumberOut                           150.00    
+servidor2.NumberSeized                      150.00    
+servidor2.ScheduledUtilization              .28877    
+servidor1.NumberSeized                      150.00    
+servidor1.ScheduledUtilization              .30451    
+System.NumberOut                            150.00    
+
+
+Tempo executando a simulação: 0.12 minutos.
+Simulação completada.
